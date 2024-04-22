@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'SpoqaHanSansNeo-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.rlacksdl104
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.title1
+{
+  font-family: 'SpoqaHanSansNeo-Regular';
+  display: flex;
+  align-self: flex-end;
+  margin: 0;
+  align-self: center;
+  font-weight: 900;
+  margin-right: 850px;
+  margin-left: 7px;
+}
+
+.title
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 40px;
+}
+
+p{
+  margin: 0;
+}
+
+.img1
+{
+  width: 22px;
+  height: 18px;
+  display: flex;
+  align-self: center; 
+}
+
+.title2
+{
+  padding: 0px 20px 0px 0px;
+}
+.title3
+{
+  padding: 0px 20px 0px 0px;
+}
+.title4
+{
+  padding: 0px 20px 0px 0px;
+}
+.title5
+{
+  padding: 0px 20px 0px 0px;
+}
+.title7
+{
+  padding: 0px 20px 0px 0px;
+}
+
+.nav1
+{
+  display: flex;
+  justify-content: space-around;
+  margin-right: 60px;
+}
+
+.nav2
+{
+  display: flex;
+  justify-content: space-around;
+}
+
+.rlacksdl105
+{
+  display: flex;
+  align-content: space-around;
+  margin-top: 10px;
+  margin-right: 50px;
+  font-family: 'SpoqaHanSansNeo-Regular';
+  font-size: 14px;
+}
+
+.text1
+{
+  font-family: 'SpoqaHanSansNeo-Regular';
+  display: flex;
+  font-size: 45px;
+  font-weight: 800;
+  justify-content: center;
+  padding: 100px 100px 100px 100px;
+}
+
+.img2{
+  margin: auto;
+  display: block;
+  padding-top: 20px;
+}
+
+.imglog1
+{
+  display: flex;
+  align-items: center;
+
+}
+
+.img3{
+  transform: rotate(180deg);
+  width: 60px;
+  height: 60px;
+  position: relative;
+  left: 200px;
+}
+
+.img4{
+  width: 60px;
+  height: 60px;
+  position: relative;
+  left: -200px;
+}
+
+
+.background
+{
+  background: rgba(255, 192, 203, 0.555);
+  background: linear-gradient(0deg , rgba(255, 192, 203, 0.325) , rgb(255, 255, 255));
+  height: 1000px;
+  position: relative;
+}
+
+.colored1
+{
+  color: red;
+  font-weight: bold;
+  word-spacing:-5px;
+}
+
+.colored2
+{
+  color: red;
+  font-weight: bold;
+}
+
+
