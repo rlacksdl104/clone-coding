@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+    <link rel="stylesheet" href="대동여지도.cc.css">
+</head>
+<body>
+  <div class="title">
+    <div class="rlacksdl104">
+    <img class="img1" src="https://daedongyeojido-fe.xquare.app/assets/MainLogo-CTQNbvYT.png">
+    <p class="title1">대동여지도</p>
+    </div>
+    <div class="rlacksdl105">
+      <div class="nav1">
+        <p class="title2">공고</p>
+        <p class="title3">동아리</p>
+      </div>
+      <div class="nav2">
+        <p class="title4" style="word-spacing: 3px;">로그인</p>
+        <p class="title7">|</p>
+        <p class="title5">문의하기</p>
+      </div>
+    </div>
+  </div>
+  <hr>
+  <div class="background">
+    <h1 class ="text1" style="text-align: center;">동아리의 모든 것<br>대동여지도에서 쉽고 간편하게</h1>
+    <div class="imglog1">
+      <img class="img3" src="data:image/svg+xml,%3csvg%20width='40'%20height='40'%20viewBox='0%200%2040%2040'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M20%200C31.04%200%2040%208.96%2040%2020C40%2031.04%2031.04%2040%2020%2040C8.96%2040%200%2031.04%200%2020C0%208.96%208.96%200%2020%200ZM20%2017C20%2017.5523%2019.5523%2018%2019%2018H13C12.4477%2018%2012%2018.4477%2012%2019V21C12%2021.5523%2012.4477%2022%2013%2022H19C19.5523%2022%2020%2022.4477%2020%2023V25.5858C20%2026.4767%2021.0771%2026.9229%2021.7071%2026.2929L27.2929%2020.7071C27.6834%2020.3166%2027.6834%2019.6834%2027.2929%2019.2929L21.7071%2013.7071C21.0771%2013.0771%2020%2013.5233%2020%2014.4142V17Z'%20fill='%232B3647'/%3e%3c/svg%3e">
+    <img class="img2" src="https://daedongyeojido-fe.xquare.app/assets/MainMacLow3-PquE9962.png" width="900" height="500">
+    <img class="img4" src="data:image/svg+xml,%3csvg%20width='40'%20height='40'%20viewBox=
+    0%200%2040%2040'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M20%200C31.04%200%2040%208.96%2040%2020C40%2031.04%2031.04%2040%2020%2040C8.96%2040%200%2031.04%200%2020C0%208.96%208.96%200%2020%200ZM20%2017C20%2017.5523%2019.5523%2018%2019%2018H13C12.4477%2018%2012%2018.4477%2012%2019V21C12%2021.5523%2012.4477%2022%2013%2022H19C19.5523%2022%2020%2022.4477%2020%2023V25.5858C20%2026.4767%2021.0771%2026.9229%2021.7071%2026.2929L27.2929%2020.7071C27.6834%2020.3166%2027.6834%2019.6834%2027.2929%2019.2929L21.7071%2013.7071C21.0771%2013.0771%2020%2013.5233%2020%2014.4142V17Z'%20fill='%232B3647'/%3e%3c/svg%3e">  
+    </div>
+  </div>
+
+  <h1 class="text2">대덕소프트웨어마이스터고등학교의 전공동아리들을<br>
+    한눈에 조회하고 한 곳에서 관리하세요.<br>
+    <div class="colored1">이제껏 경험하지 못했던 쉽고 편리한 전공동아리 서비스,<br></div>
+    대동여지도와 함께라면 당신의 전공동아리가 새로워질 거예요.</h1>
+
+  <h1 class="text3" style="text-align: center;">전공동아리<br><div class="colored2">관리의 모든 것<br></div>하나로 관리하다</h1>
+  <img class="img5" src="https://daedongyeojido-fe.xquare.app/assets/Anything-90OQLNdL.png">
+
+</body>
+</html>
